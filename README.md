@@ -1,9 +1,8 @@
-# RhombixTechnologies_Task3
-Bug Bounty Debugger
 
+python static-analysis code-security vulnerability-scanner security-tools tkinter cybersecurity
 
-# Rhombix Debugger (Intern Project)
-Advanced Python static-code vulnerability scanner with GUI.
+Python static security analyzer with a GUI for identifying potential code vulnerabilities and reviewing findings.
+## Advanced Python static-code vulnerability scanner with GUI.
 
 ## Features
 - AST-based detection: eval/exec, use of subprocess with shell=True, os.system, pickle use, insecure requests (verify=False), hardcoded secrets, SQL concatenation patterns, weak hashes (md5).
