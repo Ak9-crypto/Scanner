@@ -1,7 +1,4 @@
 
-python static-analysis code-security vulnerability-scanner security-tools tkinter cybersecurity
-
-Python static security analyzer with a GUI for identifying potential code vulnerabilities and reviewing findings.
 ## Advanced Python static-code vulnerability scanner with GUI.
 
 ## Features
